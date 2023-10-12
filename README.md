@@ -11,7 +11,7 @@ To get started, follow these steps:
 
 <h2>Challenge Progress</h2>
 Day 1: Created a simple HTML page layout with semantic elements and a navigation menu.
-<h2>Key Takeaways</h2>
+<h4>Key Takeaways</h4>
 Practiced creating semantic HTML elements for a structured webpage layout.
 Constructed a simple navigation menu with unordered list elements (<ul>) and anchor links (<a>).
 Day-1:- 
