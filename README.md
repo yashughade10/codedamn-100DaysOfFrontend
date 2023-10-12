@@ -1,7 +1,7 @@
 # codedamn-100DaysOfFrontend
 "I took part in '100 Days of Frontend,' solving interesting challenges and becoming a better developer every day!"
 
-# 100 Days of Frontend - Day 1
+# 100 Days of Frontend
 ## Getting Started
 
 To get started, follow these steps:
