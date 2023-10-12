@@ -18,3 +18,9 @@ Constructed a simple navigation menu with unordered list elements 'ul' and ancho
 <h3>Day 2:</h3> Adding Meta Tags to an HTML Document
 <h4>Key Takeaways</h4>
 Learned to use meta tags for optimizing web page display and SEO, enhancing user experience and search engine visibility. Key takeaways: viewport settings, description, character encoding, and Open Graph meta tags.
+
+<h3>Day 3:</h3> Creating a Simple Video Player with HTML
+<h4>Key Takeaways</h4>
+
+1. Created a basic HTML video player with controls for multimedia content.
+2. Achieved responsiveness by setting video width to 100% and height to auto for adaptability.
