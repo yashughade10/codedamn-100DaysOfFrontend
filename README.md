@@ -7,7 +7,7 @@
 To get started, follow these steps:
 
 1. Clone or download this repository to your local machine.
-2. Open index.html in your preferred web browser.
+2. Open html files in your preferred web browser.
 
 <h2>Challenge Progress</h2>
 <h3>Day 1:</h3> Created a simple HTML page layout with semantic elements and a navigation menu.
