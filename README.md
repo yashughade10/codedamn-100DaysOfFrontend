@@ -14,3 +14,7 @@ To get started, follow these steps:
 <h4>Key Takeaways</h4>
 Practiced creating semantic HTML elements for a structured webpage layout.
 Constructed a simple navigation menu with unordered list elements 'ul' and anchor links 'a'.
+
+<h3>Day 2:</h3> Adding Meta Tags to an HTML Document
+<h4>Key Takeaways</h4>
+Learned to use meta tags for optimizing web page display and SEO, enhancing user experience and search engine visibility. Key takeaways: viewport settings, description, character encoding, and Open Graph meta tags.
