@@ -54,3 +54,11 @@ Learned to use meta tags for optimizing web page display and SEO, enhancing user
 2. Enhanced understanding of HTML form elements and the importance of specifying attributes for each input type.
 
 ##
+
+<h3>Day 7:</h3> Creating Radio Buttons in a Form
+<h4>Key Takeaways</h4>
+
+1. Learned to create radio buttons in a form for single-option selection.
+2. Explored the use of IDs, grouping, disabling, and pre-selecting radio buttons to control user interaction.
+
+##
