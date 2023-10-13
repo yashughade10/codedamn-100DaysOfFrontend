@@ -38,3 +38,11 @@ Learned to use meta tags for optimizing web page display and SEO, enhancing user
 2. Contributed to a more inclusive web by providing meaningful image descriptions.
 
 ##
+
+<h3>Day 5:</h3> Creating a Form with Fieldset and Legend Elements
+<h4>Key Takeaways</h4>
+
+1. Used 'fieldset' and 'legend' elements to create well-organized forms.
+2. Improved form structure and accessibility by providing labels for input field groups.
+
+##
