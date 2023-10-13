@@ -30,3 +30,11 @@ Learned to use meta tags for optimizing web page display and SEO, enhancing user
 2. Achieved responsiveness by setting video width to 100% and height to auto for adaptability.
 
 ##
+
+<h3>Day 4:</h3> Improving Web Accessibility with Alt Attributes
+<h4>Key Takeaways</h4>
+
+1. Enhanced web accessibility by adding descriptive alt attributes to images for screen reader users.
+2. Contributed to a more inclusive web by providing meaningful image descriptions.
+
+##
