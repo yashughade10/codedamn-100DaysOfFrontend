@@ -70,3 +70,11 @@ Learned to use meta tags for optimizing web page display and SEO, enhancing user
 2. Applied inline CSS to enhance the presentation of HTML elements.
 
 ##
+
+<h3>Day 9:</h3> Exploring CSS Position Property
+<h4>Key Takeaways</h4>
+
+1. Use the CSS position property and its various values for element positioning.
+2. Applied positioning elements using 'static,' 'relative,' and 'absolute' values.
+
+##
