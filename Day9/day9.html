@@ -1,0 +1,69 @@
+<!-- 
+Instructions :-
+    Position Property Lab
+    In this lab, you will practice the position property in CSS.
+
+    Position property is used to define how an element is positioned on the page. The position property works with top, bottom, left, and right, which specify the position relative to the nearest positioned parent element.
+
+    There are several types of positioning:
+
+    Static (default): Elements are rendered in the order they appear in the source code.
+    Relative: Elements are positioned relative to their normal position.
+    Absolute: Elements are positioned relative to the nearest positionedancestor.
+    Fixed: Elements are positioned relative to the browser window.
+    In this lab, you will create a div with id container and position 3 child divs using static, relative, and absolute positioning. Follow the challenges to position the elements properly.
+
+Challenges :- 
+    1] Create a div container with id container which has a width of 300px and height of 300px, and a border to see its boundary
+
+    2] Create a class box which holds the sets the width and height to 50px. Add the box class to all the three boxes that you create inside #container element
+
+    3] Inside the #container div, create a div with id 'static-box' and add background color blue. This box will not use any position property
+
+    4] Create another div with id relative-box inside the #container div having properties, background color to green, and position it relatively 20px from the top and 20px from the left of the #container div
+
+    5] Create a third div with id absolute-box,set the background color to red, and position it absolutely at 220px from the top and 20px from the left of the container div
+
+ -->
+
+ <!DOCTYPE html>
+<html>
+	<head>
+		<title>Position Property Lab</title>
+		<style>
+			/* Write your CSS here */
+			#container{
+				width:300px;
+				height:300px;
+				border:1px solid red;
+			}
+			.box{
+				width:50px;
+				height:50px;
+			}
+			#static-box{
+				background-color : blue;
+			}
+			#relative-box{
+				background-color : green;
+				position:relative;
+				top:20px;
+				left:20px;
+			}
+			#absolute-box{
+				background-color : red;
+				position:absolute;
+				top:220px;
+				left:20px;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="container">
+			<!-- Create and style your divs here -->
+			<div class="box" id="static-box"></div>
+			<div class="box" id="relative-box"></div>
+			<div class="box" id="absolute-box"></div>
+		</div>
+	</body>
+</html>
