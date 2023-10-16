@@ -1,0 +1,56 @@
+.box {
+	height: 75px;
+	width: 75px;
+	background-color: lightblue;
+	border-radius: 0.2rem;
+}
+
+.container {
+	background-color: yellow;
+	width: 22%;
+	border-radius: 0.3rem;
+	display: grid;
+	gap: 1.2rem;
+	grid-template-columns: 1fr 1fr 1fr;
+	padding: 0.2rem 0.2rem;
+}
+
+.box:hover {
+    animation: wobble 1s ease-in-out infinite;
+}
+
+@keyframes wobble {
+    0% {
+        transform: translateX(0) rotate(0);
+    }
+    10% {
+        transform: translateX(3px) rotate(1deg);
+    }
+    20% {
+        transform: translateX(-3px) rotate(-1deg);
+    }
+    30% {
+        transform: translateX(3px) rotate(1deg);
+    }
+    40% {
+        transform: translateX(-3px) rotate(-1deg);
+    }
+    50% {
+        transform: translateX(3px) rotate(1deg);
+    }
+    60% {
+        transform: translateX(-3px) rotate(-1deg);
+    }
+    70% {
+        transform: translateX(3px) rotate(1deg);
+    }
+    80% {
+        transform: translateX(-3px) rotate(-1deg);
+    }
+    90% {
+        transform: translateX(3px) rotate(1deg);
+    }
+    100% {
+        transform: translateX(0) rotate(0);
+    }
+}
