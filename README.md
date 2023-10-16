@@ -78,3 +78,11 @@ Learned to use meta tags for optimizing web page display and SEO, enhancing user
 2. Applied positioning elements using 'static,' 'relative,' and 'absolute' values.
 
 ##
+
+<h3>Day 10:</h3> Creating Dynamic Wobble Animation with CSS
+<h4>Key Takeaways</h4>
+
+1. Gained hands-on experience in crafting CSS animations using keyframes to bring dynamic effects to web elements.
+2. Applied the ':hover' pseudo-class to seamlessly trigger animations upon interaction.
+
+##
