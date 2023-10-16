@@ -62,3 +62,11 @@ Learned to use meta tags for optimizing web page display and SEO, enhancing user
 2. Explored the use of IDs, grouping, disabling, and pre-selecting radio buttons to control user interaction.
 
 ##
+
+<h3>Day 8:</h3> Understanding Div and Span Elements
+<h4>Key Takeaways</h4>
+
+1. Make use of HTML div and span elements for content structuring and styling.
+2. Applied inline CSS to enhance the presentation of HTML elements.
+
+##
