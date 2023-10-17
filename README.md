@@ -86,3 +86,11 @@ Learned to use meta tags for optimizing web page display and SEO, enhancing user
 2. Applied the ':hover' pseudo-class to seamlessly trigger animations upon interaction.
 
 ##
+
+<h3>Day 11:</h3> Building a Playground Card Design
+<h4>Key Takeaways</h4>
+
+1. Developed practical skills in creating complex card designs with multiple components.
+2. Used flexbox or grid layout techniques to structure and align card elements effectively.
+
+##
