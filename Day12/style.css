@@ -1,0 +1,15 @@
+/* write your CSS code here */
+#container{
+    column-count: 2;
+}
+.box{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    margin: 5px;
+}
+
+.box:nth-child(3){
+    column-span: all;
+}
