@@ -94,3 +94,11 @@ Learned to use meta tags for optimizing web page display and SEO, enhancing user
 2. Used flexbox or grid layout techniques to structure and align card elements effectively.
 
 ##
+
+<h3>Day 12:</h3> CSS Column Span Property Lab
+<h4>Key Takeaways</h4>
+
+1. Used CSS properties 'column-count' and 'column-span' to create multi-column layouts with ease.
+2. Embraced the power of dynamic web design by using JavaScript to manipulate column counts, making web layouts adaptable.
+
+##
