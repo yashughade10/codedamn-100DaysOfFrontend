@@ -110,3 +110,11 @@ Learned to use meta tags for optimizing web page display and SEO, enhancing user
 2. Gained the ability to elegantly hide excess text and display ellipsis (...) when text overflows its designated container, ensuring a clean and professional presentation.
 
 ##
+
+<h3>Day 14:</h3> CSS Text Shadow Lab
+<h4>Key Takeaways</h4>
+
+1. Used the art of creating captivating text shadow effects with the text-shadow property in CSS.
+2. Unveiled the magic of text color manipulation, enhancing the visual appeal of HTML elements.
+
+##
