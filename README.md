@@ -102,3 +102,11 @@ Learned to use meta tags for optimizing web page display and SEO, enhancing user
 2. Embraced the power of dynamic web design by using JavaScript to manipulate column counts, making web layouts adaptable.
 
 ##
+
+<h3>Day 13:</h3> Text-Overflow Property Lab
+<h4>Key Takeaways</h4>
+
+1. Used 'text-overflow' property in CSS, which is invaluable for handling overflowing text in fixed-width containers.
+2. Gained the ability to elegantly hide excess text and display ellipsis (...) when text overflows its designated container, ensuring a clean and professional presentation.
+
+##
