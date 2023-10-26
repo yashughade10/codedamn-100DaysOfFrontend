@@ -118,3 +118,12 @@ Learned to use meta tags for optimizing web page display and SEO, enhancing user
 2. Unveiled the magic of text color manipulation, enhancing the visual appeal of HTML elements.
 
 ##
+
+<h3>Day 15:</h3> CSS Specificity Challenge
+<h4>Key Takeaways</h4>
+
+1. CSS specificity governs how styles are applied in cases of conflicting rules, making it essential to grasp for precise styling.
+2. Inline styles override class-based styles, and CSS cascading order is key to controlling the appearance of web elements.
+
+##
+
