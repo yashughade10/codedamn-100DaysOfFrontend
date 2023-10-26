@@ -1,0 +1,39 @@
+<!-- 
+Instructions :- 
+    Specificity in CSS
+    In this lab, you will learn about specificity in CSS.
+
+    Specificity is an important concept when it comes to styling elements because it determines which CSS rule applied to an element is more specific and, as a result, takes precedence.
+
+    To complete this lab, you will create three paragraph elements, apply styles based on the class selector, use inline styling, and change the specificity of the CSS rules.
+
+    This lab will help you understand the hierarchy and importance of specificity in CSS, as well as how you can combine different selectors to achieve the desired result.
+
+Challenges :- 
+    1] Create an HTML file with 3 paragraph elements. Assign a class p-text to each of them and give them text 'This is paragraph'.
+
+    2] Create a CSS file and apply styling to the .p-text class with the color red.
+
+    3] Add inline styles to the second paragraph to make the text blue.
+
+    4] Increase the specificity of the .p-text class by using the element selector in CSS to make text green. The second paragraph should remain blue.
+
+ -->
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Specificity in CSS</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <!-- Create three paragraph elements with the class 'p-text' here -->
+    <p class="p-text">This is paragraph</p>
+    <p class="p-text" style="color: blue;">This is paragraph</p>
+    <p >This is paragraph</p>
+</body>
+
+</html>
