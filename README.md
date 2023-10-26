@@ -127,3 +127,10 @@ Learned to use meta tags for optimizing web page display and SEO, enhancing user
 
 ##
 
+<h3>Day 16:</h3> Overlay Element Lab
+<h4>Key Takeaways</h4>
+
+1. In this lab, we learned to create an overlay element that displays information upon hovering over a background div.
+2. CSS properties like position, opacity, and the :hover pseudo-class are essential for creating interactive and informative UI elements.
+##
+
